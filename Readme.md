@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Mithun S K]
+# Hi there! 👋 I'm Mithun S K
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mithun-74&color=blueviolet)
 
